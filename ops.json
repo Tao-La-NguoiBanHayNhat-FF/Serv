@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "a56a527c-c411-37c4-944d-dc0a30355c1e",
+    "name": "durubu_bot",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5ce21338-4415-36bc-9168-0f2d3688092b",
+    "name": "DarkBoy_cool",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e07778f9-8c43-3c31-8980-5a501ce4b29b",
+    "name": "durubu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
